@@ -1,6 +1,6 @@
 body{
   align-items: center !important;
-  display: inline-block;
+  display: "";
 }
 @media (max-width:480px){
   .intro{
@@ -109,8 +109,6 @@ body{
   height: 250px;
   width: 350px;
   border-radius: 10%;
-
-
 }
 .heading{
   color: rgb(53, 119, 141);
